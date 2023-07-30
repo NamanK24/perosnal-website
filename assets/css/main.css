@@ -50,7 +50,17 @@
 .header.active { background-color: var(--white); }
 
 .nam{
-  font-size: 25px;
+  font-size: 35px;
+  color: #d15f1d;
+  font-weight: bolder;
+}
+
+.abc{
+  text-align: justify;
+}
+
+.naman{
+  font-size: 30px;
 }
 
 

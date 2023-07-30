@@ -67,3 +67,9 @@
   .service-list { grid-template-columns: 1fr 1fr; }
 
 }
+
+.nam {
+  font-size: 35px;
+  color: #d15f1d;
+  font-weight: bolder;
+}
